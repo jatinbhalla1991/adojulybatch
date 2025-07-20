@@ -1,0 +1,7 @@
+Tools for batch:
+https://portal.azure.com/    -- azure account
+https://git-scm.com/downloads  -git
+https://docs.docker.com/desktop/setup/install/windows-install/   --docker desktop
+https://code.visualstudio.com/download  --visual studio code
+https://learn.microsoft.com/en-us/powershell/azure/install-azps-windows?view=azps-14.2.0&tabs=powershell&pivots=windows-psgallery  --azure powershell
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest&pivots=winget  --azure cli
