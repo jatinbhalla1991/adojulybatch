@@ -1,3 +1,10 @@
 Assignment 27 July
 1. try git commands mentioned in this git cheat sheet https://education.github.com/git-cheat-sheet-education.pdf
 2. Study abouy azure boards: https://learn.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards?view=azure-devops
+
+
+Assignment 3 Aug
+1. Try to setup agent on azure vm
+2. Create some files in your repo and as soon as you commit and push those files on azure devops a pipeline should trigger
+  your pipeline should copy those files in temp directory of your laptop
+3. Try to explore azure devops environment
