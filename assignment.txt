@@ -7,4 +7,14 @@ Assignment 3 Aug
 1. Try to setup agent on azure vm
 2. Create some files in your repo and as soon as you commit and push those files on azure devops a pipeline should trigger
   your pipeline should copy those files in temp directory of your laptop
-3. Try to explore azure devops environment
+3. Try to explore azure devops 
+
+assignment 10 aug
+1. search for a azure command which will create a resource group in azure
+2. create a pipeline in azure devops
+   a. add a task which will run the command to create a resource group in azure
+   b. you need to use the service connection to authenticate for this task
+3. run the pipeline and check on azure resource group should be created.
+4. next time just using the variables change the name of resource group and re run the pipeline
+   it should create a new resource group
+
