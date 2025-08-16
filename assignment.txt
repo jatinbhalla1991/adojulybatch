@@ -18,3 +18,9 @@ assignment 10 aug
 4. next time just using the variables change the name of resource group and re run the pipeline
    it should create a new resource group
 
+assignment 16 aug
+1. create a azure devops yaml pipeline
+2. using the azure devops pipeline. create a docker image and push it to the acr
+3. try to pull the same image from the acr and run
+4. do local host and your should get your application output
+
